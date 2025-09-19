@@ -1,3 +1,3 @@
-# Projeto Alura Space
+# Curso 4
 
-Projeto feito para desenvolver meus conhecimentos no framework Django
+Esta branch contém o conteúdo do curso 4 do framework django
